@@ -11,4 +11,4 @@ If you want to see a minimalistic movement of the ant, use the flag  `-v` to see
 
 The project is written in Golang as part of 01 edu school projects for Gritlab Coding School, Åland.
 
-**Contributors: Adrian L, Christian D, Oluwatosin I**
+**Oluwatosin I**

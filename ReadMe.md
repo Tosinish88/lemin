@@ -9,6 +9,4 @@ If you want to see a minimalistic movement of the ant, use the flag  `-v` to see
 -   The shortest path is not necessarily the simplest.
 - We only use the path that uses the minimum number of steps to moves the ant from start to end. If more than one path returns the same steps, then we use the path with minimum number of moves. If there are more than one path still, we can use any of these paths.
 
-The project is written in Golang as part of 01 edu school projects for Gritlab Coding School, Åland.
-
 **Oluwatosin I**
